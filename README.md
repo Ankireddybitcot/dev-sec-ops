@@ -2,13 +2,13 @@
 
 As AWS cloud adoption is increasing, we have witnessed an expanded attack surface that cybercriminals can more easily exploit. Sensitive customer and corporate data has sprawled across multiple cloud environments, while deficiencies in security are increasing risks.
 
-This [Udemy course][1] helps you identify these risks and automate your response to the security incidents. This repository holds some of the resources to complete the [Udemy course][1].
+This [course][1] helps you identify these risks and automate your response to the security incidents. This github repository holds some of the resources to complete the [course][1].
 
 All pull requests, suggestions and comments are welcome.
 
 ## 👋 Buy me a coffee
 
-[Buy me](https://paypal.me/valaxy) a coffee ☕, _or_ You can reach out to get more details through [here](https://youtube.com/c/valaxytechnologies/about).
+[Buy me](https://paypal.me/valaxy) a coffee ☕.
 
 ### 🏷️ Metadata
 
